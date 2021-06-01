@@ -1,4 +1,4 @@
-// Copyright 2021 MIX-1 <danilonil1@yandex.ru>
+// Copyright 2021 dima <dmitrymazhorinjr@gmail.com>
 
 #include "Histogram.h"
 int Histogram::GetNumSkip() const {
